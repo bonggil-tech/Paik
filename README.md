@@ -5,6 +5,6 @@
 
 
 [클론사이트 바로가기](https://bonggil-tech.github.io/Paik/)
-[빽다방이미지](https://github.com/bonggil-tech/Paik/blob/main/images/main-banner01.jpg)
+
 <br>
 [![빽다방이미지](https://github.com/bonggil-tech/Paik/blob/main/images/main-banner01.jpg)](https://bonggil-tech.github.io/Paik/)
