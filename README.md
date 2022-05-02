@@ -7,4 +7,4 @@
 [paikdabang](https://github.com/bonggil-tech/Paik)
 ![빽다방이미지](https://github.com/bonggil-tech/Paik/blob/main/images/logo.png)
 <br>
-[![빽다방이미지](https://github.com/bonggil-tech/Paik/blob/main/images/main-banner01.jpg)
+![빽다방이미지](https://github.com/bonggil-tech/Paik/blob/main/images/main-banner01.jpg)
